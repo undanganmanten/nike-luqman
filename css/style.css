@@ -230,7 +230,11 @@ body{
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
   position: relative;
+<<<<<<< HEAD
   bottom: -180px;
+=======
+  bottom: -200px;
+>>>>>>> e63c2827d159175cb2a4dbbbe9255b5826b7258f
 }
 
 .title .nama-undangan{
