@@ -208,7 +208,7 @@ body{
   top: -100%;
   width: 100vw;
   height: 100vh;
-  background: url("../asset/image/sampul-photo.jpg");
+  background: url("../asset/image/sampul-photo1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -230,7 +230,7 @@ body{
   text-align: center;
   font-family: 'Josefin Sans', sans-serif;
   position: relative;
-  bottom: -220px;
+  bottom: -180px;
 }
 
 .title .nama-undangan{
@@ -1251,7 +1251,7 @@ input[type="radio"] {
 @media(max-width: 576px){
  
   #popup{
-    background: url("../asset/image/sampul-photo.jpg");
+    background: url("../asset/image/sampul-photo1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
